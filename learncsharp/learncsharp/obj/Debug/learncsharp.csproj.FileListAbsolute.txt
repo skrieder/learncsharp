@@ -1,0 +1,6 @@
+C:\Users\Scott\Documents\GitHub\learncsharp\learncsharp\learncsharp\bin\Debug\learncsharp.exe.config
+C:\Users\Scott\Documents\GitHub\learncsharp\learncsharp\learncsharp\bin\Debug\learncsharp.exe
+C:\Users\Scott\Documents\GitHub\learncsharp\learncsharp\learncsharp\bin\Debug\learncsharp.pdb
+C:\Users\Scott\Documents\GitHub\learncsharp\learncsharp\learncsharp\obj\Debug\learncsharp.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\GitHub\learncsharp\learncsharp\learncsharp\obj\Debug\learncsharp.exe
+C:\Users\Scott\Documents\GitHub\learncsharp\learncsharp\learncsharp\obj\Debug\learncsharp.pdb
