@@ -50,7 +50,6 @@ namespace learncsharp
             }
              * */
 
-
             // readline to show console output
             Console.ReadLine();
 
