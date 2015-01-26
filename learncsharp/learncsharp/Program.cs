@@ -32,6 +32,11 @@ namespace learncsharp
             Console.WriteLine("i7 = {0}", i7);
             Console.WriteLine("i8 = {0}", i8);
 
+           // String s1 = (String)i1.GetType();
+
+            // print types
+            Console.WriteLine("i1 has a type of: {0}", i1.GetType());
+
             Console.ReadLine();
 
         }
